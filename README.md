@@ -1,4 +1,3 @@
-grunt-nico
-==========
+# grunt nico
 
-run nico with grunt
+still in development

@@ -1,0 +1,53 @@
+{
+  "name": "grunt-nico",
+  "description": "grunt nico",
+  "version": "0.1.0",
+  "homepage": "https://github.com/lynzz/grunt-nico",
+  "author": {
+    "name": "lynzz",
+    "email": "lynzz168@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lynzz/grunt-nico.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lynzz/grunt-nico/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/lynzz/grunt-nico/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "nico": "^0.5.0"
+  },
+  "readme": "# grunt nico\n\nstill in development",
+  "readmeFilename": "README.md",
+  "_id": "grunt-nico@0.1.0",
+  "dist": {
+    "shasum": "d5fefd3a93d0f2524f0384827363b68afea36640"
+  },
+  "spm":{},
+  "_from": "grunt-nico@",
+  "_resolved": "http://registry.cnpmjs.org/grunt-nico/download/grunt-nico-0.1.0.tgz"
+}
