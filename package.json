@@ -33,7 +33,7 @@
     "grunt": "~0.4.5"
   },
   "peerDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin"
@@ -47,7 +47,7 @@
   "dist": {
     "shasum": "d5fefd3a93d0f2524f0384827363b68afea36640"
   },
-  "spm":{},
+  "spm": {},
   "_from": "grunt-nico@",
   "_resolved": "http://registry.cnpmjs.org/grunt-nico/download/grunt-nico-0.1.0.tgz"
 }
